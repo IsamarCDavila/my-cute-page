@@ -1,0 +1,59 @@
+/* Inserta tu CSS aqui */
+*{
+	/*outline: 1px solid red;*/
+}
+/*--------------------------header---------------------------------*/
+header nav ul{
+	list-style: none;
+	text-align: center;
+}
+ header nav ul li{
+
+	display:inline;
+	margin-right: 15px;
+	font-size: 15px;
+}
+.hero{
+	background: url(../images/hero.jpg) no-repeat;
+	background-size: cover;
+	height: 350px;
+	color:white;
+	text-align: center;
+}
+.imag-responsive{
+	width: 60%;
+	text-align: center;
+	border: 1px solid black;
+	margin-left: 90px;
+}
+.titulo1 {
+	text-align: center;
+	color:#76365F;
+}
+body{
+	background: url(../images/fondo.jpg);
+}
+.hobbie{
+	height: 150px;
+	width: 150px;
+	text-align: center;
+	border: 2px solid #76365F ;
+	padding: 3px;
+    border-radius: 100px;
+    margin:10%;
+}
+/*------------------------------footer-------------------------------*/
+footer{
+	background: url(../images/footer.jpg);
+}
+
+footer nav ul{
+	list-style: none;
+	text-align: center;
+}
+ footer nav ul li{
+
+	display:inline;
+	margin-right: 15px;
+	font-size: 10px;
+}
