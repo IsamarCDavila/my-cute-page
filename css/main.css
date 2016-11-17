@@ -20,6 +20,9 @@ header nav ul{
 	color:white;
 	text-align: center;
 }
+.nombre{
+	padding-top:100px;
+}
 .imag-responsive{
 	width: 60%;
 	text-align: center;
